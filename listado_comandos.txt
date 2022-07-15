@@ -14,3 +14,15 @@ git blame
 
 Para eliminar cambios que no quiero añadir
 git restore
+
+
+Elimina y lleva el archivo a la zona de staging
+git rm 'archivo'
+
+
+Cuando el estado en staging area
+git diff 'archivo.txt'
+
+
+
+touch .gitignore
