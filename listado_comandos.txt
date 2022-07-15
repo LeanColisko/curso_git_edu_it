@@ -23,6 +23,13 @@ git rm 'archivo'
 Cuando el estado en staging area
 git diff 'archivo.txt'
 
-
-
+Agrgamos archivo para ignorar archivos del trackeo
 touch .gitignore
+
+git remote add origin git@github.com:LeanColisko/curso_git_edu_it.git
+
+Una vez que agregamos el repositorio remoto, lo vemos en nuestra configuracion:
+git config --list
+
+
+git push -u origin master
