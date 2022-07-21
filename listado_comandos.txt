@@ -33,3 +33,17 @@ git config --list
 
 
 git push -u origin master
+
+
+
+COMANDOS CLASE 2:
+
+git clone
+
+git branch
+
+git switch
+
+git merge
+
+
